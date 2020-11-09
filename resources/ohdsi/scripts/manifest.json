@@ -1,0 +1,23 @@
+{
+    "ohdsi": {
+        "mssql": [
+            {
+                "name":"ddl",
+                "uri":"https://raw.githubusercontent.com/OHDSI/CommonDataModel/master/Sql%20Server/OMOP%20CDM%20sql%20server%20ddl.txt"
+            },
+            {
+                "name":"results",
+                "uri":"https://github.com/OHDSI/CommonDataModel/blob/master/Sql%20Server/OMOP%20CDM%20Results%20sql%20server.txt"
+            },
+            {
+                "name":"constraints",
+                "uri":"https://raw.githubusercontent.com/OHDSI/CommonDataModel/master/Sql%20Server/OMOP%20CDM%20sql%20server%20constraints.txt"
+            },
+            {
+                "name":"indexes",
+                "uri":"https://raw.githubusercontent.com/OHDSI/CommonDataModel/master/Sql%20Server/OMOP%20CDM%20sql%20server%20pk%20indexes.txt"
+            }
+            
+        ]
+    }
+}
